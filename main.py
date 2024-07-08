@@ -205,14 +205,14 @@ def send_start(
             [
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code",
-                        url="https://github.com/bipinkrish/Link-Bypasser-Bot",
+                        "🌐 Owner 😺",
+                        url="https://t.me/l_abani",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Replit",
-                        url="https://replit.com/@bipinkrish/Link-Bypasser#app.py",
+                        "SUPPORT ✨",
+                        url="https://t.me/NOOBPrivate",
                     )
                 ],
             ]
