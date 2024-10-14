@@ -206,7 +206,7 @@ def send_start(
                 [
                     InlineKeyboardButton(
                         "🌐 Owner 😺",
-                        url="https://t.me/l_abani",
+                        url="https://t.me/noob_je",
                     )
                 ],
                 [
